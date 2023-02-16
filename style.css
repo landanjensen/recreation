@@ -1,0 +1,56 @@
+body {
+    
+    background-image: url('/Images/green-vegetables-on-brown-wooden-chopping-board-3952047.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 65%;
+    color: white;
+    
+    
+}
+
+.pink{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 9%;
+    font-size: 28px;
+    gap: 0%;
+   
+}
+
+
+
+.itemseven {
+   margin-left: 80%;
+}
+
+.containertwo {
+    display: flex;
+    flex-direction: row;
+    margin-top: 7%;
+    font-size: 20px;
+  
+    
+}
+
+line {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
